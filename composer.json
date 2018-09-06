@@ -1,19 +1,18 @@
 {
     "name": "wangcj/helloworld",
     "description": "Just a demo for composer",
-    "type": "library",
     "authors": [
         {
             "name": "wangchaojie",
             "email": "popxmz@Gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
     },
     "autoload": {
         "psr-4": {
-            "wangcj\\helloworld\\": "wangcj/helloworld/Speaker"
+            "wangcj\\helloworld\\": "wangcj/helloworld/"
         }
     }
 }

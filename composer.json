@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wangcj\\helloworld": "wangcj/helloworld/Speaker"
+            "wangcj\\helloworld\\": "wangcj/helloworld/Speaker"
         }
     }
 }

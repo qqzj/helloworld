@@ -1,0 +1,13 @@
+{
+    "name": "wangcj/helloworld",
+    "description": "Just a demo for composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wangchaojie",
+            "email": "popxmz@Gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

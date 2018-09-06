@@ -8,7 +8,7 @@
             "email": "popxmz@Gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    // "minimum-stability": "stable",
     "require": {
         "php": ">=5.4"
     },

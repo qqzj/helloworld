@@ -12,7 +12,7 @@ namespace wangcj\helloworld;
 class Speaker {
 
     public function __construct(){
-        echo 'I\'m a speaker !';
+        echo 'I\'m a speaker V0.1!';
     }
     public function getVolume(){
         echo 'Speaker volume value is 54';

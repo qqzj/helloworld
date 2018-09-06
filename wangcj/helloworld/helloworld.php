@@ -9,7 +9,7 @@
  */
 namespace wangcj\helloworld;
 
-class Speaker {
+class helloworld {
 
     public function __construct(){
         echo 'I\'m a speaker V1.0 !';
